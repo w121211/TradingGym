@@ -1,13 +1,20 @@
-gym
+# gym
+gymnasium
 pandas
 numpy
 matplotlib
 torch
-finta
-stable_baselines3
+# finta
+# stable_baselines3
+sb3_contrib>=2.0.0a1
+stable_baselines3>=2.0.0a1
 quantstats
 mplfinance
 tensorboard
 wandb
 jupyterlab
-duka
+# duka
+
+plotly
+# TA-Lib
+# pandas_ta

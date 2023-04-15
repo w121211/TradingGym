@@ -122,3 +122,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
  
+.dukascopy-cache
+download/
+data/split/
+runs/
+wandb/
+.DS_Store
